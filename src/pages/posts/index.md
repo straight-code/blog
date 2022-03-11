@@ -9,8 +9,9 @@ value: 128
 description: about blog 1
 ---
 
+# About Me 
+I'm straight-code 
+<img src="https://straight-code.github.io/assets/straight-code.png" style="width:300px; margin-left: 30%;" >
 <Cool name={frontmatter.name} href="https://twitter.com/straight_code28" client:load />
-
 This is so cool!
 
-Do variables work {frontmatter.value * 2}?
